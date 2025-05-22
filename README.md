@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Badmus-zainab
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning data analytics 
+- 🌱 I’m currently data analyts
 - 💞️ I’m looking to collaborate on anything data
 - 📫 How to reach me on mobile (09065147283)
 
